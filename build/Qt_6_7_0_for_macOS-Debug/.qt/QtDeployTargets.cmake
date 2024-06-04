@@ -1,0 +1,1 @@
+set(__QT_DEPLOY_TARGET_appTeslaInfotainmentSystem_FILE /Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/appTeslaInfotainmentSystem.app/Contents/MacOS/appTeslaInfotainmentSystem)

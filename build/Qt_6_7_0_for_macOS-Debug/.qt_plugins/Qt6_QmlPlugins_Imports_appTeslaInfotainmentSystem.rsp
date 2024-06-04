@@ -1,0 +1,14 @@
+-rootPath
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem
+-cmake-output
+-output-file
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/.qt_plugins/Qt6_QmlPlugins_Imports_appTeslaInfotainmentSystem.cmake
+-importPath
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/TeslaInfotainmentSystem
+-importPath
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug
+-importPath
+/Users/sanjaykumarts/Qt/6.7.0/macos/./qml
+-qrcFiles
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/.rcc/qmake_TeslaInfotainmentSystem.qrc
+/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/.rcc/appTeslaInfotainmentSystem_raw_qml_0.qrc

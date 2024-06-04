@@ -1,0 +1,1502 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appTeslaInfotainmentSystem.app/Contents/MacOS/appTeslaInfotainmentSystem"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6/Qt6Config.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"/Users/sanjaykumarts/Qt/Tools/CMake/CMake.app/Contents/share/cmake-3.27/Modules/CMakeFindDependencyMacro.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkVersionlessTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Network/Qt6NetworkConfig.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Qml/Qt6QmlDependencies.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiVersionlessTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"/Users/sanjaykumarts/Qt/6.7.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:743:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 869,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 575,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 629,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 47,
+				"parent" : 0
+			},
+			{
+				"command" : 7,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 776,
+				"parent" : 6
+			},
+			{
+				"command" : 5,
+				"file" : 2,
+				"line" : 392,
+				"parent" : 7
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 41,
+				"parent" : 0
+			},
+			{
+				"command" : 10,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 5,
+				"parent" : 10
+			},
+			{
+				"command" : 10,
+				"file" : 5,
+				"line" : 169,
+				"parent" : 11
+			},
+			{
+				"file" : 4,
+				"parent" : 12
+			},
+			{
+				"command" : 9,
+				"file" : 4,
+				"line" : 55,
+				"parent" : 13
+			},
+			{
+				"file" : 3,
+				"parent" : 14
+			},
+			{
+				"command" : 8,
+				"file" : 3,
+				"line" : 62,
+				"parent" : 15
+			},
+			{
+				"command" : 9,
+				"file" : 4,
+				"line" : 43,
+				"parent" : 13
+			},
+			{
+				"file" : 10,
+				"parent" : 17
+			},
+			{
+				"command" : 12,
+				"file" : 10,
+				"line" : 42,
+				"parent" : 18
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 20
+			},
+			{
+				"file" : 7,
+				"parent" : 21
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 56,
+				"parent" : 22
+			},
+			{
+				"file" : 6,
+				"parent" : 23
+			},
+			{
+				"command" : 8,
+				"file" : 6,
+				"line" : 62,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 7,
+				"line" : 44,
+				"parent" : 22
+			},
+			{
+				"file" : 13,
+				"parent" : 26
+			},
+			{
+				"command" : 12,
+				"file" : 13,
+				"line" : 42,
+				"parent" : 27
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 28
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 29
+			},
+			{
+				"file" : 12,
+				"parent" : 30
+			},
+			{
+				"command" : 9,
+				"file" : 12,
+				"line" : 60,
+				"parent" : 31
+			},
+			{
+				"file" : 11,
+				"parent" : 32
+			},
+			{
+				"command" : 8,
+				"file" : 11,
+				"line" : 61,
+				"parent" : 33
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 35
+			},
+			{
+				"file" : 15,
+				"parent" : 36
+			},
+			{
+				"command" : 9,
+				"file" : 15,
+				"line" : 60,
+				"parent" : 37
+			},
+			{
+				"file" : 14,
+				"parent" : 38
+			},
+			{
+				"command" : 8,
+				"file" : 14,
+				"line" : 61,
+				"parent" : 39
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 41
+			},
+			{
+				"file" : 17,
+				"parent" : 42
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 60,
+				"parent" : 43
+			},
+			{
+				"file" : 16,
+				"parent" : 44
+			},
+			{
+				"command" : 8,
+				"file" : 16,
+				"line" : 61,
+				"parent" : 45
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 576,
+				"parent" : 2
+			},
+			{
+				"command" : 11,
+				"file" : 9,
+				"line" : 111,
+				"parent" : 19
+			},
+			{
+				"command" : 10,
+				"file" : 8,
+				"line" : 76,
+				"parent" : 48
+			},
+			{
+				"file" : 19,
+				"parent" : 49
+			},
+			{
+				"command" : 9,
+				"file" : 19,
+				"line" : 57,
+				"parent" : 50
+			},
+			{
+				"file" : 18,
+				"parent" : 51
+			},
+			{
+				"command" : 8,
+				"file" : 18,
+				"line" : 62,
+				"parent" : 52
+			},
+			{
+				"command" : 9,
+				"file" : 17,
+				"line" : 55,
+				"parent" : 43
+			},
+			{
+				"file" : 20,
+				"parent" : 54
+			},
+			{
+				"command" : 8,
+				"file" : 20,
+				"line" : 62,
+				"parent" : 55
+			},
+			{
+				"command" : 14,
+				"file" : 2,
+				"line" : 647,
+				"parent" : 7
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 2747,
+				"parent" : 57
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 19,
+				"file" : 21,
+				"line" : 1,
+				"parent" : 59
+			},
+			{
+				"command" : 18,
+				"file" : 0,
+				"line" : 774,
+				"parent" : 60
+			},
+			{
+				"command" : 17,
+				"file" : 0,
+				"line" : 678,
+				"parent" : 61
+			},
+			{
+				"command" : 16,
+				"file" : 0,
+				"line" : 678,
+				"parent" : 62
+			},
+			{
+				"command" : 15,
+				"file" : 2,
+				"line" : 3541,
+				"parent" : 63
+			},
+			{
+				"command" : 13,
+				"file" : 2,
+				"line" : 3346,
+				"parent" : 64
+			},
+			{
+				"command" : 21,
+				"file" : 2,
+				"line" : 541,
+				"parent" : 7
+			},
+			{
+				"command" : 20,
+				"file" : 2,
+				"line" : 3074,
+				"parent" : 66
+			},
+			{
+				"command" : 20,
+				"file" : 2,
+				"line" : 3099,
+				"parent" : 66
+			},
+			{
+				"command" : 23,
+				"file" : 2,
+				"line" : 2899,
+				"parent" : 66
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 1415,
+				"parent" : 69
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 3065,
+				"parent" : 66
+			},
+			{
+				"command" : 26,
+				"file" : 2,
+				"line" : 590,
+				"parent" : 7
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 337,
+				"parent" : 72
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2390,
+				"parent" : 73
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2004,
+				"parent" : 74
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2531,
+				"parent" : 57
+			},
+			{
+				"command" : 27,
+				"file" : 2,
+				"line" : 2635,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 1244,
+				"parent" : 77
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2683,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2531,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2683,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2531,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2683,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2531,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2683,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2531,
+				"parent" : 57
+			},
+			{
+				"command" : 22,
+				"file" : 2,
+				"line" : 2683,
+				"parent" : 57
+			},
+			{
+				"command" : 26,
+				"file" : 2,
+				"line" : 2766,
+				"parent" : 57
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 337,
+				"parent" : 88
+			},
+			{
+				"command" : 24,
+				"file" : 0,
+				"line" : 2390,
+				"parent" : 89
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2004,
+				"parent" : 90
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 768,
+				"parent" : 60
+			},
+			{
+				"command" : 22,
+				"file" : 0,
+				"line" : 2117,
+				"parent" : 92
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX14.5.sdk -fcolor-diagnostics"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 47,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QMLBUILTINS_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 8,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 9,
+					"define" : "QT_QUICK_LIB"
+				}
+			],
+			"frameworks" : 
+			[
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtCore.framework"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQml.framework"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtNetwork.framework"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQuick.framework"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtGui.framework"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQmlModels.framework"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtOpenGL.framework"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/appTeslaInfotainmentSystem_autogen/include"
+				},
+				{
+					"backtrace" : 67,
+					"path" : "/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQml.framework/Versions/A/Headers/6.7.1"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQml.framework/Versions/A/Headers/6.7.1/QtQml"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/6.7.1"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/Headers/6.7.1/QtCore"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtCore.framework/Headers"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/include"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/include/QtQmlBuiltins/6.7.1"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/include/QtQmlBuiltins/6.7.1/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/include/QtQmlBuiltins"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQml.framework/Headers"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 68,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtNetwork.framework/Headers"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQuick.framework/Headers"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtGui.framework/Headers"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQmlModels.framework/Headers"
+				},
+				{
+					"backtrace" : 9,
+					"isSystem" : true,
+					"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtOpenGL.framework/Headers"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					47
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4,
+				6,
+				7,
+				9,
+				11,
+				13,
+				15,
+				16
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 58,
+			"id" : "appTeslaInfotainmentSystem_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 65,
+			"id" : "appTeslaInfotainmentSystem_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appTeslaInfotainmentSystem_autogen::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appTeslaInfotainmentSystem_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appTeslaInfotainmentSystem::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "."
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-Xlinker",
+				"role" : "flags"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "-no_warn_duplicate_libraries",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-iframework /Users/sanjaykumarts/Qt/6.7.1/macos/lib",
+				"role" : "frameworkPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/sanjaykumarts/Qt/6.7.1/macos/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQuick.framework/Versions/A/QtQuick",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 16,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQmlModels.framework/Versions/A/QtQmlModels",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtQml.framework/Versions/A/QtQml",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/libQt6QmlBuiltins.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 34,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtNetwork.framework/Versions/A/QtNetwork",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 40,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtOpenGL.framework/Versions/A/QtOpenGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 46,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtGui.framework/Versions/A/QtGui",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 47,
+				"fragment" : "/Users/sanjaykumarts/Qt/6.7.1/macos/lib/QtCore.framework/Versions/A/QtCore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 53,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 53,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-Xlinker -framework -Xlinker AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 56,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appTeslaInfotainmentSystem",
+	"nameOnDisk" : "appTeslaInfotainmentSystem",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				58,
+				71,
+				72,
+				73,
+				74,
+				75,
+				76,
+				77,
+				78
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				4,
+				6,
+				7,
+				9,
+				11,
+				13,
+				15,
+				16
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				5,
+				8,
+				10,
+				12,
+				14,
+				17,
+				18,
+				19
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48,
+				49,
+				50,
+				51,
+				52,
+				53,
+				54,
+				55,
+				56,
+				57
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				59,
+				60,
+				61,
+				62,
+				63,
+				64,
+				65,
+				66,
+				67,
+				68,
+				69,
+				70
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/appTeslaInfotainmentSystem_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 70,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/meta_types/qt6appteslainfotainmentsystem_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 71,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/appteslainfotainmentsystem_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 75,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qrc_qmake_TeslaInfotainmentSystem.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 76,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 78,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 79,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_Main_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 80,
+			"path" : "ui/MainControlBar/MainControlBar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 81,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/MainControlBar/MainControlBar_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 82,
+			"path" : "ui/Sidebar/Sidebar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 83,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Sidebar/Sidebar_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 84,
+			"path" : "ui/Rightbar/Rightbar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 85,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Rightbar/Rightbar_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 86,
+			"path" : "ui/Musicbar/Musicbar.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 87,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Musicbar/Musicbar_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 91,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qrc_appTeslaInfotainmentSystem_raw_qml_0.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 93,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qmake_TeslaInfotainmentSystem.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 93,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/TeslaInfotainmentSystem/qmldir",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 93,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/appTeslaInfotainmentSystem_raw_qml_0.qrc",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/arrow-1.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/arrow.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/defrost.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/fan.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/heater.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/model3-icon.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/music.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/phone.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/seat-1.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/seat.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/mainControlBar/volume.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/battery.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/camera.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/Group-1.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/Group.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/headlights.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/microphone.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/minus.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/plus.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/power.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/Speed-Limit.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/speedometer-line.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/steering-wheel.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/sidebar/tire-pressure.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/gear.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/lock.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/navicon.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/scale.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/Subtract.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/Union.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/rightbar/Vector-37.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/album-cover.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/heart.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/next.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/pause.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/previous.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/search.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 93,
+			"path" : "assets/images/Musicbar/up.png",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/appTeslaInfotainmentSystem_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/meta_types/qt6appteslainfotainmentsystem_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/appteslainfotainmentsystem_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qrc_qmake_TeslaInfotainmentSystem.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/MainControlBar/MainControlBar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Sidebar/Sidebar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Rightbar/Rightbar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.rcc/qmlcache/appTeslaInfotainmentSystem_ui/Musicbar/Musicbar_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/.qt/rcc/qrc_appTeslaInfotainmentSystem_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/appTeslaInfotainmentSystem_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_7_0_for_macOS-Debug/meta_types/appTeslaInfotainmentSystem_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 47,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6qmlbuiltins_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 8,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 9,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6quick_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 9,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6gui_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 9,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6qmlmodels_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 9,
+			"path" : "/Users/sanjaykumarts/Qt/6.7.1/macos/metatypes/qt6opengl_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

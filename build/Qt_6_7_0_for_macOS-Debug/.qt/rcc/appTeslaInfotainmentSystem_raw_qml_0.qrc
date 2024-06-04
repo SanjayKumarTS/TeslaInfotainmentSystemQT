@@ -1,0 +1,48 @@
+<RCC>
+  <qresource prefix="/TeslaInfotainmentSystem/">
+    <file alias="Main.qml">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/Main.qml</file>
+    <file alias="ui/MainControlBar/MainControlBar.qml">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/ui/MainControlBar/MainControlBar.qml</file>
+    <file alias="ui/Sidebar/Sidebar.qml">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/ui/Sidebar/Sidebar.qml</file>
+    <file alias="ui/Rightbar/Rightbar.qml">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/ui/Rightbar/Rightbar.qml</file>
+    <file alias="ui/Musicbar/Musicbar.qml">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/ui/Musicbar/Musicbar.qml</file>
+    <file alias="assets/images/mainControlBar/arrow-1.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/arrow-1.png</file>
+    <file alias="assets/images/mainControlBar/arrow.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/arrow.png</file>
+    <file alias="assets/images/mainControlBar/defrost.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/defrost.png</file>
+    <file alias="assets/images/mainControlBar/fan.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/fan.png</file>
+    <file alias="assets/images/mainControlBar/heater.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/heater.png</file>
+    <file alias="assets/images/mainControlBar/model3-icon.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/model3-icon.png</file>
+    <file alias="assets/images/mainControlBar/music.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/music.png</file>
+    <file alias="assets/images/mainControlBar/phone.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/phone.png</file>
+    <file alias="assets/images/mainControlBar/seat-1.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/seat-1.png</file>
+    <file alias="assets/images/mainControlBar/seat.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/seat.png</file>
+    <file alias="assets/images/mainControlBar/volume.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/mainControlBar/volume.png</file>
+    <file alias="assets/images/sidebar/battery.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/battery.png</file>
+    <file alias="assets/images/sidebar/camera.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/camera.png</file>
+    <file alias="assets/images/sidebar/Group-1.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/Group-1.png</file>
+    <file alias="assets/images/sidebar/Group.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/Group.png</file>
+    <file alias="assets/images/sidebar/headlights.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/headlights.png</file>
+    <file alias="assets/images/sidebar/microphone.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/microphone.png</file>
+    <file alias="assets/images/sidebar/minus.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/minus.png</file>
+    <file alias="assets/images/sidebar/plus.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/plus.png</file>
+    <file alias="assets/images/sidebar/power.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/power.png</file>
+    <file alias="assets/images/sidebar/Speed-Limit.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/Speed-Limit.png</file>
+    <file alias="assets/images/sidebar/speedometer-line.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/speedometer-line.png</file>
+    <file alias="assets/images/sidebar/steering-wheel.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/steering-wheel.png</file>
+    <file alias="assets/images/sidebar/tire-pressure.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/sidebar/tire-pressure.png</file>
+    <file alias="assets/images/rightbar/gear.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/gear.png</file>
+    <file alias="assets/images/rightbar/lock.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/lock.png</file>
+    <file alias="assets/images/rightbar/navicon.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/navicon.png</file>
+    <file alias="assets/images/rightbar/scale.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/scale.png</file>
+    <file alias="assets/images/rightbar/Subtract.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/Subtract.png</file>
+    <file alias="assets/images/rightbar/Union.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/Union.png</file>
+    <file alias="assets/images/rightbar/Vector-37.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/rightbar/Vector-37.png</file>
+    <file alias="assets/images/Musicbar/album-cover.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/album-cover.png</file>
+    <file alias="assets/images/Musicbar/heart.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/heart.png</file>
+    <file alias="assets/images/Musicbar/next.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/next.png</file>
+    <file alias="assets/images/Musicbar/pause.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/pause.png</file>
+    <file alias="assets/images/Musicbar/previous.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/previous.png</file>
+    <file alias="assets/images/Musicbar/search.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/search.png</file>
+    <file alias="assets/images/Musicbar/up.png">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/assets/images/Musicbar/up.png</file>
+  </qresource>
+</RCC>
+

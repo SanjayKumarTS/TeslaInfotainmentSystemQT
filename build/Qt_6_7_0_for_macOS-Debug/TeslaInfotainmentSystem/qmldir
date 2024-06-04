@@ -1,0 +1,9 @@
+module TeslaInfotainmentSystem
+typeinfo appTeslaInfotainmentSystem.qmltypes
+prefer :/TeslaInfotainmentSystem/
+Main 1.0 Main.qml
+MainControlBar 1.0 ui/MainControlBar/MainControlBar.qml
+Sidebar 1.0 ui/Sidebar/Sidebar.qml
+Rightbar 1.0 ui/Rightbar/Rightbar.qml
+Musicbar 1.0 ui/Musicbar/Musicbar.qml
+

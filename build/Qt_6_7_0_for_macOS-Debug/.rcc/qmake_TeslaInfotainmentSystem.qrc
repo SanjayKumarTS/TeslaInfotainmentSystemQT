@@ -1,0 +1,6 @@
+<RCC>
+  <qresource prefix="/TeslaInfotainmentSystem">
+    <file alias="qmldir">/Users/sanjaykumarts/Qt-Projects/TeslaInfotainmentSystem/build/Qt_6_7_0_for_macOS-Debug/TeslaInfotainmentSystem/qmldir</file>
+  </qresource>
+</RCC>
+
